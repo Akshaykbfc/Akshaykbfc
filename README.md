@@ -1,0 +1,1 @@
+I'm Akshay Asokan, an MSc Electrical Engineering and Information Technology student at OVGU Magdeburg, constantly exploring new technologies. This platform serves as a compilation of my projects, including both individual efforts for upskilling and collaborations with peers at the university.
